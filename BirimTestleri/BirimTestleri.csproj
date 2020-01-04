@@ -23,7 +23,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\tekton-ornek\TektonOrnek.csproj" />
+    <ProjectReference Include="..\TektonOrnek\TektonOrnek.csproj" />
   </ItemGroup>
 
 </Project>

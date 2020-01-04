@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29509.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TektonOrnek", "tekton-ornek\TektonOrnek.csproj", "{FD5A68B0-2B86-46EF-940A-C340BC5211DC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TektonOrnek", "TektonOrnek\TektonOrnek.csproj", "{FD5A68B0-2B86-46EF-940A-C340BC5211DC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BirimTestleri", "BirimTestleri\BirimTestleri.csproj", "{E08D3A38-1122-4C93-A2CD-42D10476BDE8}"
 EndProject
